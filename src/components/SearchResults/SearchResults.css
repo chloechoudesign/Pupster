@@ -1,0 +1,10 @@
+#results {
+  margin-top: 40px;
+}
+
+#results-image {
+  height: 280px;
+  margin-top: 20px;
+  margin-left: 20px;
+  border: 5px solid #fff;
+}
